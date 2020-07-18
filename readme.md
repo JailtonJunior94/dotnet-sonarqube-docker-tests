@@ -43,7 +43,7 @@ Executando o comando de testes acima:
 ![Screenshot](/images/01-ComandoTestes.png)
 Resultado do comando executado:
 ![Screenshot](/images/02-ResultadoTestes.png)
-Podemos observar que ele gerou uma pasta com o nome de "Coverage" e a cobertura no nosso consome
+Podemos observar que ele gerou uma pasta com o nome de "Coverage" e a cobertura no nosso console
 
 ## Gerando o HTML de Coverage
 Na pasta do projeto executar o seguinte comando:<br>
